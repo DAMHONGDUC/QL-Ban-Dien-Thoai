@@ -1,0 +1,91 @@
+C:\Users\Dam Hong Duc\Desktop\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe.config
+C:\Users\Dam Hong Duc\Desktop\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Desktop\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.pdb
+C:\Users\Dam Hong Duc\Desktop\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csprojAssemblyReference.cache
+C:\Users\Dam Hong Duc\Desktop\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Form_Main.resources
+C:\Users\Dam Hong Duc\Desktop\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Properties.Resources.resources
+C:\Users\Dam Hong Duc\Desktop\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Dam Hong Duc\Desktop\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Dam Hong Duc\Desktop\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Desktop\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.pdb
+C:\Users\Dam Hong Duc\Desktop\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Form_chitietdonhang.resources
+C:\Users\Dam Hong Duc\Desktop\19120481\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe.config
+C:\Users\Dam Hong Duc\Desktop\19120481\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Desktop\19120481\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.pdb
+C:\Users\Dam Hong Duc\Desktop\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csprojAssemblyReference.cache
+C:\Users\Dam Hong Duc\Desktop\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Form_chitietdonhang.resources
+C:\Users\Dam Hong Duc\Desktop\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Form_Main.resources
+C:\Users\Dam Hong Duc\Desktop\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Properties.Resources.resources
+C:\Users\Dam Hong Duc\Desktop\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Dam Hong Duc\Desktop\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Dam Hong Duc\Desktop\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Desktop\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.pdb
+C:\Users\Dam Hong Duc\Documents\19120481\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe.config
+C:\Users\Dam Hong Duc\Documents\19120481\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Documents\19120481\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.pdb
+C:\Users\Dam Hong Duc\Documents\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csprojAssemblyReference.cache
+C:\Users\Dam Hong Duc\Documents\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Form_chitietdonhang.resources
+C:\Users\Dam Hong Duc\Documents\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Form_Main.resources
+C:\Users\Dam Hong Duc\Documents\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Properties.Resources.resources
+C:\Users\Dam Hong Duc\Documents\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Dam Hong Duc\Documents\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Dam Hong Duc\Documents\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Documents\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.pdb
+C:\Users\Dam Hong Duc\Desktop\Đức Đàm\19120481\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe.config
+C:\Users\Dam Hong Duc\Desktop\Đức Đàm\19120481\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Desktop\Đức Đàm\19120481\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.pdb
+C:\Users\Dam Hong Duc\Desktop\Đức Đàm\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csprojAssemblyReference.cache
+C:\Users\Dam Hong Duc\Desktop\Đức Đàm\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Form_chitietdonhang.resources
+C:\Users\Dam Hong Duc\Desktop\Đức Đàm\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Form_Main.resources
+C:\Users\Dam Hong Duc\Desktop\Đức Đàm\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Properties.Resources.resources
+C:\Users\Dam Hong Duc\Desktop\Đức Đàm\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Dam Hong Duc\Desktop\Đức Đàm\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Dam Hong Duc\Desktop\Đức Đàm\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Desktop\Đức Đàm\19120481\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.pdb
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe.config
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.pdb
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csprojAssemblyReference.cache
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.DonHang.resources
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Form_chitietdonhang.resources
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.HangHoa.resources
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.KhachHang.resources
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Main.resources
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.NhanVien.resources
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Properties.Resources.resources
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.ThongKe.resources
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Desktop\QL-Ban-Dien-Thoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.pdb
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe.config
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.pdb
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.DonHang.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Form_chitietdonhang.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.HangHoa.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.KhachHang.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Main.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.NhanVien.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Properties.Resources.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.ThongKe.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.pdb
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe.config
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\bin\Release\QLBanDienThoai.pdb
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csprojAssemblyReference.cache
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.DonHang.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Form_chitietdonhang.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.HangHoa.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.KhachHang.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Main.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.NhanVien.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.Properties.Resources.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.ThongKe.resources
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.exe
+C:\Users\Dam Hong Duc\Desktop\QL_Ban_DienThoai-master\QLBanDienThoai\QLBanDienThoai\obj\Release\QLBanDienThoai.pdb
