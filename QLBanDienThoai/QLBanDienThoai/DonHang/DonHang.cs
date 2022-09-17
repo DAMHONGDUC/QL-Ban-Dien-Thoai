@@ -37,7 +37,7 @@ namespace QLBanDienThoai
 
         private void ResetValues_DH() // reset giá trị cho các mục 
         {
-            if (!mode_find_DH)
+            if (mode_find_DH)
                 cbBox_thang_DH.Text = "";
 
             txtBox_madonhang_DH.Text = "";
